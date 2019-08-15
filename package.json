@@ -1,7 +1,7 @@
 {
 	"name": "wave",
 	"productName": "wave",
-	"version": "0.0.0",
+	"version": "0.0.1",
 	"description": "A minimal cross-platform music player",
 	"license": "MIT",
 	"repository": "mrbrist/wave",
